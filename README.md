@@ -40,7 +40,7 @@ Also save it for future use.
     ![5](/assets/5.png)
     ![6](/assets/6.png)<br>
 ### Deployment:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pool8964/y)<br>
 ### Post Deployment guide:
 1. Open tailscale client on the device you want to use VPN. (Guide shows for android)
 

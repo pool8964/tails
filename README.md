@@ -24,7 +24,7 @@ with an appropriate value from **Users** tab.
           { "action": "accept", "src": ["*"], "dst": ["*:*"] },
         ],
         "tagOwners": {
-          "tag:vpn": ["x0rzavi@github"],
+          "tag:vpn": ["x@github"],
         },
         "autoApprovers": {
           "exitNode": ["tag:vpn"],
@@ -63,5 +63,3 @@ Also save it for future use.
 ### Todo:
 - V2 with native wireguard implementation. (iff possible)
 - Support for VPN on github-actions.<br>
-### Contact:
-- [Telegram](https://t.me/mishizu)

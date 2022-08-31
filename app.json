@@ -1,9 +1,9 @@
 {
     "name": "Heroku",
     "description": "Easily spinup an ephemeral on heroku using Tailscale under the hood",
-    "repository": "https://github.com/x0rzavi/ephemeral-vpn",
-    "logo": "https://raw.githubusercontent.com/x0rzavi/ephemeral-vpn/main/assets/Tailscale-AppIcon.png",
-    "keywords": ["tailscale", "wireguard", "heroku"],
+    "repository": "https://github.com/pool8964/tails",
+    "logo": "https://raw.githubusercontent.com/pool8964/tails/main/assets/Tailscale-AppIcon.png",
+    "keywords": ["tailscale", "heroku"],
     "success_url": "/",
     "stack": "container",
     "formation": {

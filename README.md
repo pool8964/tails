@@ -61,5 +61,5 @@ Also save it for future use.
 - Each time your heroku app restarts, a new machine will pop up in tailscale dashboard and the old offline ones will disappear eventually. YOU have to make sure to choose the correct exit node each time, failing which will block your internet.
 - **[Tailscale](https://tailscale.com/)** is a great tool in itself with extensive documention, make sure to try it.<br>
 ### Todo:
-- V2 with native wireguard implementation. (iff possible) 
+- V2 with native wireguard implementation. (iff possible)
 - Support for VPN on github-actions.<br>

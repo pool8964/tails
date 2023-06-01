@@ -62,4 +62,4 @@ Also save it for future use.
 - **[Tailscale](https://tailscale.com/)** is a great tool in itself with extensive documention, make sure to try it.<br>
 ### Todo:
 - V2 with native wireguard implementation. (iff possible)
-- Support for VPN on github-actions.<br>
+- Support for VPN on github-actions.<br> 
